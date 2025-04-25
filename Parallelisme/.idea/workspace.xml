@@ -4,15 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d090eeef-12d9-489f-92f9-76730c1f315a" name="Changes" comment="" />
+    <list default="true" id="d090eeef-12d9-489f-92f9-76730c1f315a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Algorithme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Door.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Door.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parallelisme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Parallelisme.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AyRron"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AyRron/Kotlin707.git",
+    "accountId": "89f69513-6733-4539-ad92-c56e116d1e4c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2q1e7sjFr3lYEbeGfRKHqyIEj7j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733834360422</updated>
       <workItem from="1733834361526" duration="578000" />
+      <workItem from="1734439730459" duration="4000" />
     </task>
     <servers />
   </component>
